@@ -41,15 +41,15 @@ Exclusive datasets await you. To get your key:
 Become a part of something revolutionary. [Join us on Discord](https://discord.gg/syndicate) and [follow us on Twitter](https://twitter.com/insituate) for the latest updates.
 
 ## 🎁 Incentives and Recognition
-Contributors can earn badges, swag, and even feature in our annual **Syndicate Summit**. Your innovative solutions will not go unnoticed!
+Contributors can earn badges and swags and even feature in our annual **Syndicate Summit**. Your innovative solutions will not go unnoticed!
 
 ## 👩‍💻 Meet the Admins
 Our admins are the guardians of Syndicate's mission:
 - **Nishant** - Overlord
+- **Atif** - Lead AI Architect
 - **Ritik** - Chief of Data Sciences
 - **Areeb** - June of Research Lab
-- **Boobly** - Lead AI Architect
-- 
+
 ## 🌐 Partnerships and Enterprise Clients
 We collaborate with industry leaders like **NeuraLink Ltd** and **QuantumAI Corp.** to bring our community the best opportunities. Our enterprise clients include **TechFront** and **Innovatech Inc.**, who have transformed their operations with our templates.
 
