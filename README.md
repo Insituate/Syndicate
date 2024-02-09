@@ -20,6 +20,15 @@ Explore our `docs` for detailed tutorials and guides.
 Syndicate thrives on community contributions. Whether you're fixing bugs, adding features, or improving documentation, your help is welcome. Check out our `CONTRIBUTING.md` for more on our coding conventions and pull request process.
 
 ## 🏆 Leaderboard
+| Rank | Innovator | Impactful Contributions | Contributions in Production | Explore Contributions |
+|------|-----------|-------------------------|-----------------------------|-----------------------|
+| 1    | [Alice](https://github.com/alice) | 42                        | 30                        | [Contributions](https://syndicate.insituate.com/contributions/alice) |
+| 2    | [Bob](https://github.com/bob)   | 38                        | 27                        | [Contributions](https://syndicate.insituate.com/contributions/bob)   |
+| 3    | [Carol](https://github.com/carol) | 35                        | 25                        | [Contributions](https://syndicate.insituate.com/contributions/carol) |
+| 4    | [Dave](https://github.com/dave)  | 30                        | 20                        | [Contributions](https://syndicate.insituate.com/contributions/dave)  |
+| 5    | [Eve](https://github.com/eve)   | 28                        | 18                        | [Contributions](https://syndicate.insituate.com/contributions/eve)   |
+
+
 We celebrate achievements! Our leaderboard showcases the geniuses who've made significant contributions. Are you ready to rise to the top? See where you stand [here](https://syndicate.insituate.com/leaderboard).
 
 ## 🔑 How to Apply for Access Keys
