@@ -22,11 +22,10 @@ Syndicate thrives on community contributions. Whether you're fixing bugs, adding
 ## 🏆 Leaderboard
 | Rank | Innovator | Impactful Contributions | Contributions in Production | Explore Contributions |
 |------|-----------|-------------------------|-----------------------------|-----------------------|
-| 1    | [Alice](https://github.com/alice) | 42                        | 30                        | [Contributions](https://syndicate.insituate.com/contributions/alice) |
-| 2    | [Bob](https://github.com/bob)   | 38                        | 27                        | [Contributions](https://syndicate.insituate.com/contributions/bob)   |
-| 3    | [Carol](https://github.com/carol) | 35                        | 25                        | [Contributions](https://syndicate.insituate.com/contributions/carol) |
-| 4    | [Dave](https://github.com/dave)  | 30                        | 20                        | [Contributions](https://syndicate.insituate.com/contributions/dave)  |
-| 5    | [Eve](https://github.com/eve)   | 28                        | 18                        | [Contributions](https://syndicate.insituate.com/contributions/eve)   |
+| 1    | [Atif](https://github.com/atifquamar07) | 42                        | 30                        | [Contributions](https://syndicate.insituate.com/contributions/atifquamar07) |
+| 2    | [Ritik](https://github.com/ritiksharma009999)   | 38                        | 27                        | [Contributions](https://syndicate.insituate.com/contributions/ritiksharma009999)   |
+| 3    | [Nishant](https://github.com/sevendaystoglory) | 35                        | 25                        | [Contributions](https://syndicate.insituate.com/contributions/sevendaystoglory) |
+| 4    | [Areeb](https://github.com/areeb2304)  | 30                        | 20                        | [Contributions](https://syndicate.insituate.com/contributions/areeb2304)  |
 
 
 We celebrate achievements! Our leaderboard showcases the geniuses who've made significant contributions. Are you ready to rise to the top? See where you stand [here](https://syndicate.insituate.com/leaderboard).
