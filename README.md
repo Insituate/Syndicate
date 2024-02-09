@@ -1,14 +1,8 @@
 ![Static Badge](https://img.shields.io/badge/License-MIT-blue)
-![Static Badge](https://img.shields.io/badge/New_Release-v2.0-yellow)
-# Syndicate
-Empower your code, shape the future: Join our mission to revolutionize enterprises with cutting-edge LLM copilots.
-
-Here's a decorated and detailed README.md for your Syndicate repository. This Markdown is designed to be both professional and appealing to the tech-nerd community, emphasizing your pioneering role in AI.
-
 ![Latest Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 ![Active Members](https://img.shields.io/badge/members-500%2B-blueviolet)
-![Monthly Downloads](https://img.shields.io/badge/downloads-10k%2Fmonth-lightgrey)
+<!--![Monthly Downloads](https://img.shields.io/badge/downloads-10k%2Fmonth-lightgrey)-->
 
 ## 🚀 Introduction
 Welcome to **Syndicate** – the forefront of AI innovation. Our mission at **Insituate** is to empower enterprises with state-of-the-art, ready-to-use copilot templates. Syndicate is a cohort of the brightest tech minds dedicated to trailblazing the future of AI-driven solutions.
@@ -16,7 +10,7 @@ Welcome to **Syndicate** – the forefront of AI innovation. Our mission at **In
 ## 📚 Getting Started
 Jump into our world of AI with ease:
 ```bash
-git clone https://github.com/insituate/syndicate.git
+git clone https://github.com/Insituate/Syndicate.git
 cd syndicate
 pip install -r requirements.txt
 ```
@@ -42,12 +36,13 @@ Contributors can earn badges, swag, and even feature in our annual **Syndicate S
 
 ## 👩‍💻 Meet the Admins
 Our admins are the guardians of Syndicate's mission:
-- **Alex Quantum** - Lead AI Architect
-- **Ria Codefire** - Chief of Data Sciences
-- **Sid Hackertron** - DevOps Overlord
-
+- **Nishant** - Overlord
+- **Ritik** - Chief of Data Sciences
+- **Areeb** - June of Research Lab
+- **Boobly** - Lead AI Architect
+- 
 ## 🌐 Partnerships and Enterprise Clients
-We collaborate with industry leaders like **NeuraLink Ltd.** and **QuantumAI Corp.** to bring our community the best opportunities. Our enterprise clients include **TechFront** and **Innovatech Inc.**, who have transformed their operations with our templates.
+We collaborate with industry leaders like **NeuraLink Ltd** and **QuantumAI Corp.** to bring our community the best opportunities. Our enterprise clients include **TechFront** and **Innovatech Inc.**, who have transformed their operations with our templates.
 
 ## ⚖️ License
 Syndicate is released under the MIT License. See `LICENSE` for more information.
