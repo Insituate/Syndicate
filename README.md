@@ -5,7 +5,7 @@
 <!--![Monthly Downloads](https://img.shields.io/badge/downloads-10k%2Fmonth-lightgrey)-->
 ![Banner](Syndicate.png)
 ## 🚀 Introduction
-Welcome to **Syndicate** – the forefront of AI innovation. Our mission at **Insituate** is to empower enterprises with state-of-the-art, ready-to-use copilot templates. Syndicate is a cohort of the brightest tech minds dedicated to trailblazing the future of AI-driven solutions.
+Welcome to **Syndicate** – the forefront of AI innovation. Our mission at **insituate.ai** is to empower enterprises with state-of-the-art, ready-to-use copilot templates. Syndicate is a cohort of the brightest tech minds dedicated to trailblazing the future of AI-driven solutions.
 
 ## 📚 Getting Started
 Jump into our world of AI with ease:
