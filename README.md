@@ -52,6 +52,8 @@ Our admins are the guardians of Syndicate's mission:
 ## 🌐 Partnerships and Enterprise Clients
 We collaborate with industry leaders like **NeuraLink Ltd** and **QuantumAI Corp.** to bring our community the best opportunities. Our enterprise clients include **TechFront** and **Innovatech Inc.**, who have transformed their operations with our templates.
 
+![Banner](autollm.png)
+
 ## ⚖️ License
 Syndicate is released under the MIT License. See `LICENSE` for more information.
 
